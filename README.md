@@ -5,7 +5,7 @@ This project focuses on conducting exploratory data analysis (EDA) on a hotel bo
 The project repository contains the following files and directories:
 
 - data: This directory holds the dataset used for conducting EDA. Ensure that the dataset is stored in the correct location before running the code.
-- notebook: This directory contains Jupyter notebook used for data exploration, visualization, and analysis.
+- notebook: This directory contains Google Colab notebook used for data exploration, visualization, and analysis.
 - visualizations: The notebook stores all visualizations generated during the EDA process.
 - README.md: This file provides a brief overview of the project and its contents.
   
