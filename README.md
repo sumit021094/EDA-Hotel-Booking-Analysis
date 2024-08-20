@@ -14,7 +14,7 @@ To get started with the project, follow these steps:
 
 - Clone the repository: git clone <repository_url>
 - Place the hotel booking dataset in the correct location.
-- Open the Jupyter notebook to perform data exploration, conduct analysis, and create visualizations.
+- Open the Google Colab notebook to perform data exploration, conduct analysis, and create visualizations.
 - Run the Python scripts in the notebook to explore the dataset and generate insights.
   
 # Usage
