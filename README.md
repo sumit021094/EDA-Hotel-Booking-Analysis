@@ -2,7 +2,7 @@
 This project focuses on conducting exploratory data analysis (EDA) on a hotel booking dataset to gain insights into customer booking patterns, preferences, and trends. EDA is a crucial step in understanding the data and informing data-driven decisions for the hotel business.
 
 # Project Structure
-The project repository contains the following files and directories:
+The project repository contains the following files and directories: 
 
 - data: This directory holds the dataset used for conducting EDA. Ensure that the dataset is stored in the correct location before running the code.
 - notebook: This directory contains Google Colab notebook used for data exploration, visualization, and analysis.
